@@ -2,8 +2,6 @@
 <h1 align="center"> Hello, I'm Ki Ryum Moon</h1>
 <h3 align="center">🚀 I'm studying about Machine Learning and Deep Learning!! 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdubeyad9" alt="abhinavdubeyad9" /> </p>
-
 - 🔭 I’m currently working on Kyonggi Univ.
 - 🌱 I’m currently learning Pytorch & Tensorflow.
 - 💬 Ask me about ML, CNN project.

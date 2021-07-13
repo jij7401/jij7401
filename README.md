@@ -11,7 +11,7 @@
 -                     
 ## Some Statistics About Me
 ![jij7401's github stats](https://github-readme-stats.vercel.app/api?username=jij7401&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)
-(https://github.com/jij7401/github-readme-stats)<br>
+<br>
 
 ----
 
